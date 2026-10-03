@@ -5,7 +5,7 @@ A data cleaning, analysis and visualisation project with Microsoft Excel
 
 An end-to-end Excel project that cleans Airbnb New York City listing data and turns it into an interactive dashboard, with findings and business recommendations.
 
-<a href="https://drive.google.com/drive/folders/1cnpkKro7HqR_sy16jaSUUheyUzJFRp46" target="blank" rel="noopener noreferrer">Open Google Drive</a>
+<a href="https://drive.google.com/file/d/1IBVdnwNQ3AuJUgwpkLNCXNsfINkYNYRy/view?usp=drivesdk" target="blank" rel="noopener noreferrer">Dashboard Overview</a>
 
 ---
 
